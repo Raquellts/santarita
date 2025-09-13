@@ -12,7 +12,7 @@ function NavFoot() {
         <Col>
           <div className="InfosFoot">
             <strong>Contato</strong>
-            <div>(11) 97602 - 3098</div>
+            <div>(11) 99348 - 0155</div>
             <div>joaovitorfernandes9@hotmail.com</div>
           </div>
           <p className="InfosFoot" style={{ margin: "10px 0px 0px -20px" }}>
